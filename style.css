@@ -20,6 +20,12 @@
     height: 60px;
     border: none;
 }
+.clr{
+    background-color:lightslategrey;
+    width: 135px;
+    height: 60px;
+    border: none;  
+}
 .btn-1{
     background-color: white;
     width: 65px;
