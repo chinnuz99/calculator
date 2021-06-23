@@ -51,22 +51,3 @@
     height: 60px;
     border: none;
 }
-.git_button{
-    background-color: black;
-    color: white;
-    float: left;
-    margin-left: 540px;
-    padding: 4px;
-    margin-top: 3px;
-    border: none;
-}
-.dark{
-    background-color: black;
-    color: white;
-    float: right;
-    margin-right: 650px;
-    padding: 4px;
-    margin-top: 3px;
-    border: none;
-
-}
